@@ -9,7 +9,8 @@ An enterprise-grade financial intelligence workspace designed to ingest transact
 ### 1. Executive Command Center
 Consolidates real-time health metrics to provide immediate risk posture awareness for compliance officers and stakeholders.
 
-![Executive Dashboard View](executive-dashboard.jpg)
+<img width="1131" height="478" alt="executive-dashboard jpg" src="https://github.com/user-attachments/assets/0c6cc238-b6db-461e-8146-a6f3f7add735" />
+
 
 * **Volume Processing Metrics:** Evaluates a total run of 55 transactions spanning a cumulative footprint of 1.78M INR.
 * **Risk Tier Distribution:** Allocates system anomalies across 14 High Risk alerts, 15 Medium Risk alerts, and 11 Low Risk events.
@@ -18,7 +19,8 @@ Consolidates real-time health metrics to provide immediate risk posture awarenes
 ### 2. Fraud Deep Dive Workspace
 Isolates anomalous actors and transaction identifiers to expedite active human-in-the-loop forensic assessments.
 
-![Fraud Deep Dive View](fraud-deep-dive.jpg)
+<img width="1189" height="475" alt="fraud-deep-dive jpg" src="https://github.com/user-attachments/assets/57a86c2b-f5fb-48a2-949b-855a4577ec37" />
+
 
 * **Suspect Indexing:** Maps historical threat actions back to specific transactional identifiers (e.g., TXN001 to TXN015) alongside named profiles.
 * **Financial Exposure Sorts:** Ranks individual threat actors dynamically based on cumulative capital outflows to capture high-velocity exploits immediately.
@@ -26,7 +28,8 @@ Isolates anomalous actors and transaction identifiers to expedite active human-i
 ### 3. Rule Engine & Risk Analytics
 Deconstructs raw inputs against explicit validation criteria to calculate multi-layered threat evaluation scores.
 
-![Rule Engine Analytics View](rule-engine.jpg)
+<img width="1171" height="475" alt="rule-engine jpg" src="https://github.com/user-attachments/assets/4ddd32d8-9fee-449e-9cec-f81e75f1caae" />
+
 
 * **Average Risk Profile Weights:** Classifies calculated baseline indices where High Risk profiles heavily dictate anomalous activity clusters.
 * **Core Risk Matrix Rules Catalog:**
@@ -37,7 +40,8 @@ Deconstructs raw inputs against explicit validation criteria to calculate multi-
 ### 4. n8n Automation Engine Proof
 Manages operational flow automation, directly converting rule validations into instantaneous system alerts.
 
-![n8n Live Automation View](automation-proof.jpg)
+<img width="1095" height="484" alt="automation-proof jpg" src="https://github.com/user-attachments/assets/bb1cabc1-dff9-48fc-b4de-3d3928e10e5c" />
+
 
 * **Incident Automation Metrics:** Monitors live performance baselines showing an Average Risk Score of 2.04 across the pipeline.
 * **Incident Alerting Integrations:** Validates communication logs showing 14 distinct Gmail alerts triggered and successfully transmitted to risk response queues.
